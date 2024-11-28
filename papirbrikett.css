@@ -1,7 +1,7 @@
 body{
   padding: 15px;
-  color: blue;
-  line-height: 110%;
+  color: #1F3F5F;
+  line-height: 125%;
   background-image: url(/hatterkep.png);
 }
 
@@ -59,6 +59,7 @@ p:first-letter{
 
 .kiemelt{
   font-weight: bold;
+  font-style: italic;
 }
 
 li{
